@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Summary of all the classes in /src package:
+----------------------------------------------------------
+
+1) interface/drawPlotsUtils.h   src/drawPlotsUtils.cc:
+
+   Functions to compare and draw histograms, TProfile and TGraph
+
+2) interface/PUreweightingUtils.h src/PUreweightingUtils.cc:
+   
+   Class and functions to make the PUweights

@@ -1,0 +1,54 @@
+-------------------------------------
+------- RadionAnalysis Tool -------
+-------------------------------------
+
+Download and compile the package :
+
+export CVS_RSH=ssh
+
+export CVSROOT=:ext:USERNAME@cmscvs.cern.ch:/cvs_server/repositories/CMSSW
+
+cvs co -d  UserCode/MBadder/RadionAnalysis
+
+cd RadionAnalysis
+
+source scripts/setup.sh
+make
+make exe
+
+1) Fill distributions with variables from the trees of the Hggbb flat-trees:
+
+Run the code: ./bin/FillHistograms_Trees.exe cfg/FillHistograms_Trees_* btagWP
+
+Paramters to set in the cfg file:   -> inputList = flat-trees Root to be read. 
+                                    -> inputTree = tree to be read (e.g.: Data, WGToLNuG or qcd_30_ff).
+                                    -> isReweighted = true if you want to make a PU reweighting of the event, false otherwise. If false, the events are reweighted by default with the variable evweight. 
+                                    -> inputMCPUFile = Root file where there is the MC PU distribution (true num of interactions). If isReweighted is false, it is not read.
+                                    -> inputMCPUHisto = true num of interactions distribution name, If isReweighted is false, it is not read.
+                                    -> inputDataPUFile = Root file where there is the Data PU distribution. If isReweighted is false, it is not read.
+                                    -> inputDataPUHisto = Data PU distribution name. If isReweighted is false, it is not read.
+                                    -> outputName = complete path of the output Root file.
+
+btagWP possibilities:               -> No: all the distributions related to the btag use CSV WP = 0
+                                    -> Loose: all the distributions related to the btag use CVS WP = 0.244
+                                    -> Medium: all the distributions related to the btag use CVS WP = 0.679
+                                    -> Tight: all the distributions related to the btag use CVS WP = 0.898
+
+
+2) Draw the control plots:
+
+Run the code: ./bin/drawPlots.exe cfg/drawPlots.cfg
+
+Paramters to set in the cfg file:   -> inputListData = data Root file inputlist 
+                                    -> inputListMC = MC Root file inputlist, the fields are:
+                                       1) Complete path
+                                       2) Normalization factor: 1/equivalent_Lumi_MC
+                                       3) Label
+                                       4) Color
+                                       5) Group ranking (by now it is not used)
+                                    -> inputHistos = List of histos in the root files to draw
+                                    -> inputDataLumi = data luminosity (if MC Normalization factor != 1) 
+                                    -> isRadionComp = if false, draw the usual control plots between data and MC, if true  draw the control plots between MC and the samples given in input_DATA, normalizing it to the MC (usually MC, without Radion vs Radion sample)
+                                    -> inputLabelData = data label
+                                    -> inputCompType = type of comparison
+                                    -> outputDir = directory where it puts the png-files

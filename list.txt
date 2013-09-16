@@ -1,0 +1,772 @@
+******************************************************************************
+*Tree    :ggh_m125_8TeV: ggh_m125_8TeV                                          *
+*Entries :    52283 : Total =        40219477 bytes  File  Size =   15694989 *
+*        :          : Tree compression factor =   2.56                       *
+******************************************************************************
+*Br    0 :itype     : Int_t itype/Int_t                                      *
+*Entries :    52283 : Total  Size=     210484 bytes  File Size  =       2197 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  95.56     *
+*............................................................................*
+*Br    1 :run       : Float_t run/Float_t                                    *
+*Entries :    52283 : Total  Size=     210458 bytes  File Size  =       2187 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  95.99     *
+*............................................................................*
+*Br    2 :lumis     : Float_t lumis/Float_t                                  *
+*Entries :    52283 : Total  Size=     210486 bytes  File Size  =       3798 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  55.28     *
+*............................................................................*
+*Br    3 :event     : Float_t event/Float_t                                  *
+*Entries :    52283 : Total  Size=     210486 bytes  File Size  =      92922 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   2.26     *
+*............................................................................*
+*Br    4 :weight    : Float_t weight/Float_t                                 *
+*Entries :    52283 : Total  Size=     210500 bytes  File Size  =      71551 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   2.93     *
+*............................................................................*
+*Br    5 :evweight  : Float_t evweight/Float_t                               *
+*Entries :    52283 : Total  Size=     210528 bytes  File Size  =     185040 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.13     *
+*............................................................................*
+*Br    6 :pu_weight : Float_t pu_weight/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =      68775 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   3.05     *
+*............................................................................*
+*Br    7 :pu_n      : Float_t pu_n/Float_t                                   *
+*Entries :    52283 : Total  Size=     210472 bytes  File Size  =      73671 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   2.85     *
+*............................................................................*
+*Br    8 :nvtx      : Float_t nvtx/Float_t                                   *
+*Entries :    52283 : Total  Size=     210472 bytes  File Size  =      66074 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   3.18     *
+*............................................................................*
+*Br    9 :rho       : Float_t rho/Float_t                                    *
+*Entries :    52283 : Total  Size=     210458 bytes  File Size  =     185789 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.13     *
+*............................................................................*
+*Br   10 :category  : Int_t category/Int_t                                   *
+*Entries :    52283 : Total  Size=     210526 bytes  File Size  =      32577 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   6.45     *
+*............................................................................*
+*Br   11 :ph1_e     : Float_t ph1_e/Float_t                                  *
+*Entries :    52283 : Total  Size=     210486 bytes  File Size  =     186262 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.13     *
+*............................................................................*
+*Br   12 :ph2_e     : Float_t ph2_e/Float_t                                  *
+*Entries :    52283 : Total  Size=     210486 bytes  File Size  =     185214 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.13     *
+*............................................................................*
+*Br   13 :ph1_pt    : Float_t ph1_pt/Float_t                                 *
+*Entries :    52283 : Total  Size=     210500 bytes  File Size  =     180678 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br   14 :ph2_pt    : Float_t ph2_pt/Float_t                                 *
+*Entries :    52283 : Total  Size=     210500 bytes  File Size  =     179881 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br   15 :ph1_phi   : Float_t ph1_phi/Float_t                                *
+*Entries :    52283 : Total  Size=     210514 bytes  File Size  =     194660 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br   16 :ph2_phi   : Float_t ph2_phi/Float_t                                *
+*Entries :    52283 : Total  Size=     210514 bytes  File Size  =     194706 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br   17 :ph1_eta   : Float_t ph1_eta/Float_t                                *
+*Entries :    52283 : Total  Size=     210514 bytes  File Size  =     195066 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br   18 :ph2_eta   : Float_t ph2_eta/Float_t                                *
+*Entries :    52283 : Total  Size=     210514 bytes  File Size  =     195098 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br   19 :ph1_r9    : Float_t ph1_r9/Float_t                                 *
+*Entries :    52283 : Total  Size=     210500 bytes  File Size  =     174042 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.21     *
+*............................................................................*
+*Br   20 :ph2_r9    : Float_t ph2_r9/Float_t                                 *
+*Entries :    52283 : Total  Size=     210500 bytes  File Size  =     175521 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.20     *
+*............................................................................*
+*Br   21 :ph1_isPrompt : Int_t ph1_isPrompt/Int_t                            *
+*Entries :    52283 : Total  Size=     210582 bytes  File Size  =       2372 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  88.54     *
+*............................................................................*
+*Br   22 :ph2_isPrompt : Int_t ph2_isPrompt/Int_t                            *
+*Entries :    52283 : Total  Size=     210582 bytes  File Size  =       2450 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  85.72     *
+*............................................................................*
+*Br   23 :ph1_SCEta : Float_t ph1_SCEta/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =     195089 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br   24 :ph2_SCEta : Float_t ph2_SCEta/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =     195086 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br   25 :ph1_SCPhi : Float_t ph1_SCPhi/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =     194677 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br   26 :ph2_SCPhi : Float_t ph2_SCPhi/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =     194777 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br   27 :ph1_hoe   : Float_t ph1_hoe/Float_t                                *
+*Entries :    52283 : Total  Size=     210514 bytes  File Size  =      72772 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   2.89     *
+*............................................................................*
+*Br   28 :ph2_hoe   : Float_t ph2_hoe/Float_t                                *
+*Entries :    52283 : Total  Size=     210514 bytes  File Size  =      69218 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   3.03     *
+*............................................................................*
+*Br   29 :ph1_sieie : Float_t ph1_sieie/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =     177340 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.18     *
+*............................................................................*
+*Br   30 :ph2_sieie : Float_t ph2_sieie/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =     177794 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.18     *
+*............................................................................*
+*Br   31 :ph1_pfchargedisogood03 : Float_t ph1_pfchargedisogood03/Float_t    *
+*Entries :    52283 : Total  Size=     210724 bytes  File Size  =      84943 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   2.47     *
+*............................................................................*
+*Br   32 :ph2_pfchargedisogood03 : Float_t ph2_pfchargedisogood03/Float_t    *
+*Entries :    52283 : Total  Size=     210724 bytes  File Size  =      95395 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   2.20     *
+*............................................................................*
+*Br   33 :ph1_pfchargedisobad04 : Float_t ph1_pfchargedisobad04/Float_t      *
+*Entries :    52283 : Total  Size=     210710 bytes  File Size  =     186139 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.13     *
+*............................................................................*
+*Br   34 :ph2_pfchargedisobad04 : Float_t ph2_pfchargedisobad04/Float_t      *
+*Entries :    52283 : Total  Size=     210710 bytes  File Size  =     186332 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.13     *
+*............................................................................*
+*Br   35 :ph1_etawidth : Float_t ph1_etawidth/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =     181310 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br   36 :ph2_etawidth : Float_t ph2_etawidth/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =     181312 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br   37 :ph1_phiwidth : Float_t ph1_phiwidth/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =     184048 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.14     *
+*............................................................................*
+*Br   38 :ph2_phiwidth : Float_t ph2_phiwidth/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =     184916 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.14     *
+*............................................................................*
+*Br   39 :ph1_eseffssqrt : Float_t ph1_eseffssqrt/Float_t                    *
+*Entries :    52283 : Total  Size=     210612 bytes  File Size  =      51741 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.06     *
+*............................................................................*
+*Br   40 :ph2_eseffssqrt : Float_t ph2_eseffssqrt/Float_t                    *
+*Entries :    52283 : Total  Size=     210612 bytes  File Size  =      54641 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   3.84     *
+*............................................................................*
+*Br   41 :ph1_pfchargedisobad03 : Float_t ph1_pfchargedisobad03/Float_t      *
+*Entries :    52283 : Total  Size=     210710 bytes  File Size  =     150709 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.39     *
+*............................................................................*
+*Br   42 :ph2_pfchargedisobad03 : Float_t ph2_pfchargedisobad03/Float_t      *
+*Entries :    52283 : Total  Size=     210710 bytes  File Size  =     151550 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.39     *
+*............................................................................*
+*Br   43 :ph1_sieip : Float_t ph1_sieip/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =     198398 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   44 :ph2_sieip : Float_t ph2_sieip/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =     198494 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.06     *
+*............................................................................*
+*Br   45 :ph1_sipip : Float_t ph1_sipip/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =     189093 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.11     *
+*............................................................................*
+*Br   46 :ph2_sipip : Float_t ph2_sipip/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =     189506 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.11     *
+*............................................................................*
+*Br   47 :ph1_ecaliso : Float_t ph1_ecaliso/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =     162938 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.29     *
+*............................................................................*
+*Br   48 :ph2_ecaliso : Float_t ph2_ecaliso/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =     164396 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.28     *
+*............................................................................*
+*Br   49 :ph1_ecalisobad : Float_t ph1_ecalisobad/Float_t                    *
+*Entries :    52283 : Total  Size=     210612 bytes  File Size  =     181849 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br   50 :ph2_ecalisobad : Float_t ph2_ecalisobad/Float_t                    *
+*Entries :    52283 : Total  Size=     210612 bytes  File Size  =     182669 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br   51 :ph1_badvtx_Et : Float_t ph1_badvtx_Et/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =     180716 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br   52 :ph2_badvtx_Et : Float_t ph2_badvtx_Et/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =     180050 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br   53 :ph1_isconv : Float_t ph1_isconv/Float_t                            *
+*Entries :    52283 : Total  Size=     210556 bytes  File Size  =       2257 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  93.04     *
+*............................................................................*
+*Br   54 :ph2_isconv : Float_t ph2_isconv/Float_t                            *
+*Entries :    52283 : Total  Size=     210556 bytes  File Size  =       2257 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  93.04     *
+*............................................................................*
+*Br   55 :ph1_ciclevel : Int_t ph1_ciclevel/Int_t                            *
+*Entries :    52283 : Total  Size=     210582 bytes  File Size  =      45450 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.62     *
+*............................................................................*
+*Br   56 :ph2_ciclevel : Int_t ph2_ciclevel/Int_t                            *
+*Entries :    52283 : Total  Size=     210582 bytes  File Size  =      47540 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.42     *
+*............................................................................*
+*Br   57 :ph1_sigmaEoE : Float_t ph1_sigmaEoE/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =     186727 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.12     *
+*............................................................................*
+*Br   58 :ph2_sigmaEoE : Float_t ph2_sigmaEoE/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =     186869 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.12     *
+*............................................................................*
+*Br   59 :ph1_ptoM  : Float_t ph1_ptoM/Float_t                               *
+*Entries :    52283 : Total  Size=     210528 bytes  File Size  =     184607 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.14     *
+*............................................................................*
+*Br   60 :ph2_ptoM  : Float_t ph2_ptoM/Float_t                               *
+*Entries :    52283 : Total  Size=     210528 bytes  File Size  =     181387 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.16     *
+*............................................................................*
+*Br   61 :ph1_isEB  : Int_t ph1_isEB/Int_t                                   *
+*Entries :    52283 : Total  Size=     210526 bytes  File Size  =      20136 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  10.43     *
+*............................................................................*
+*Br   62 :ph2_isEB  : Int_t ph2_isEB/Int_t                                   *
+*Entries :    52283 : Total  Size=     210526 bytes  File Size  =      20681 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  10.15     *
+*............................................................................*
+*Br   63 :ph1_s4ratio : Float_t ph1_s4ratio/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =     174150 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.21     *
+*............................................................................*
+*Br   64 :ph2_s4ratio : Float_t ph2_s4ratio/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =     174835 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.20     *
+*............................................................................*
+*Br   65 :ph1_e3x3  : Float_t ph1_e3x3/Float_t                               *
+*Entries :    52283 : Total  Size=     210528 bytes  File Size  =     186020 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.13     *
+*............................................................................*
+*Br   66 :ph2_e3x3  : Float_t ph2_e3x3/Float_t                               *
+*Entries :    52283 : Total  Size=     210528 bytes  File Size  =     185707 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.13     *
+*............................................................................*
+*Br   67 :ph1_e5x5  : Float_t ph1_e5x5/Float_t                               *
+*Entries :    52283 : Total  Size=     210528 bytes  File Size  =     186115 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.13     *
+*............................................................................*
+*Br   68 :ph2_e5x5  : Float_t ph2_e5x5/Float_t                               *
+*Entries :    52283 : Total  Size=     210528 bytes  File Size  =     185419 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.13     *
+*............................................................................*
+*Br   69 :PhotonsMass : Float_t PhotonsMass/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =     172688 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.22     *
+*............................................................................*
+*Br   70 :dipho_E   : Float_t dipho_E/Float_t                                *
+*Entries :    52283 : Total  Size=     210514 bytes  File Size  =     183152 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br   71 :dipho_pt  : Float_t dipho_pt/Float_t                               *
+*Entries :    52283 : Total  Size=     210528 bytes  File Size  =     190156 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.10     *
+*............................................................................*
+*Br   72 :dipho_eta : Float_t dipho_eta/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =     194122 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br   73 :dipho_phi : Float_t dipho_phi/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =     194793 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br   74 :dipho_cosThetaStar_CS : Float_t dipho_cosThetaStar_CS/Float_t      *
+*Entries :    52283 : Total  Size=     210710 bytes  File Size  =     190063 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.11     *
+*............................................................................*
+*Br   75 :dipho_tanhYStar : Float_t dipho_tanhYStar/Float_t                  *
+*Entries :    52283 : Total  Size=     210626 bytes  File Size  =     189881 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.11     *
+*............................................................................*
+*Br   76 :dipho_Y   : Float_t dipho_Y/Float_t                                *
+*Entries :    52283 : Total  Size=     210514 bytes  File Size  =     194395 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.08     *
+*............................................................................*
+*Br   77 :vtx_ind   : Int_t vtx_ind/Int_t                                    *
+*Entries :    52283 : Total  Size=     210512 bytes  File Size  =      34939 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   6.01     *
+*............................................................................*
+*Br   78 :vtx_x     : Float_t vtx_x/Float_t                                  *
+*Entries :    52283 : Total  Size=     210486 bytes  File Size  =     154947 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.35     *
+*............................................................................*
+*Br   79 :vtx_y     : Float_t vtx_y/Float_t                                  *
+*Entries :    52283 : Total  Size=     210486 bytes  File Size  =     147944 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.42     *
+*............................................................................*
+*Br   80 :vtx_z     : Float_t vtx_z/Float_t                                  *
+*Entries :    52283 : Total  Size=     210486 bytes  File Size  =     195555 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.07     *
+*............................................................................*
+*Br   81 :vtx_mva   : Float_t vtx_mva/Float_t                                *
+*Entries :    52283 : Total  Size=     210514 bytes  File Size  =     187844 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.12     *
+*............................................................................*
+*Br   82 :vtx_mva_2 : Float_t vtx_mva_2/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =     188827 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.11     *
+*............................................................................*
+*Br   83 :vtx_mva_3 : Float_t vtx_mva_3/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =     185950 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.13     *
+*............................................................................*
+*Br   84 :vtx_ptbal : Float_t vtx_ptbal/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =     196064 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.07     *
+*............................................................................*
+*Br   85 :vtx_ptasym : Float_t vtx_ptasym/Float_t                            *
+*Entries :    52283 : Total  Size=     210556 bytes  File Size  =     192159 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.09     *
+*............................................................................*
+*Br   86 :vtx_logsumpt2 : Float_t vtx_logsumpt2/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =     180267 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br   87 :vtx_pulltoconv : Float_t vtx_pulltoconv/Float_t                    *
+*Entries :    52283 : Total  Size=     210612 bytes  File Size  =     100317 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   2.09     *
+*............................................................................*
+*Br   88 :vtx_prob  : Float_t vtx_prob/Float_t                               *
+*Entries :    52283 : Total  Size=     210528 bytes  File Size  =     182001 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br   89 :njets_passing_kLooseID : Int_t njets_passing_kLooseID/Int_t        *
+*Entries :    52283 : Total  Size=     210722 bytes  File Size  =      30545 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   6.88     *
+*............................................................................*
+*Br   90 :njets_passing_kLooseID_and_CSVL :                                  *
+*         | Int_t njets_passing_kLooseID_and_CSVL/Int_t                      *
+*Entries :    52283 : Total  Size=     210848 bytes  File Size  =      14282 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  14.72     *
+*............................................................................*
+*Br   91 :njets_passing_kLooseID_and_CSVM :                                  *
+*         | Int_t njets_passing_kLooseID_and_CSVM/Int_t                      *
+*Entries :    52283 : Total  Size=     210848 bytes  File Size  =       5363 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  39.19     *
+*............................................................................*
+*Br   92 :njets_passing_kLooseID_and_CSVT :                                  *
+*         | Int_t njets_passing_kLooseID_and_CSVT/Int_t                      *
+*Entries :    52283 : Total  Size=     210848 bytes  File Size  =       3685 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  57.04     *
+*............................................................................*
+*Br   93 :j1_e      : Float_t j1_e/Float_t                                   *
+*Entries :    52283 : Total  Size=     210472 bytes  File Size  =     110569 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.90     *
+*............................................................................*
+*Br   94 :j1_pt     : Float_t j1_pt/Float_t                                  *
+*Entries :    52283 : Total  Size=     210486 bytes  File Size  =     110430 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.90     *
+*............................................................................*
+*Br   95 :j1_phi    : Float_t j1_phi/Float_t                                 *
+*Entries :    52283 : Total  Size=     210500 bytes  File Size  =     114244 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.84     *
+*............................................................................*
+*Br   96 :j1_eta    : Float_t j1_eta/Float_t                                 *
+*Entries :    52283 : Total  Size=     210500 bytes  File Size  =     114160 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.84     *
+*............................................................................*
+*Br   97 :j1_beta   : Float_t j1_beta/Float_t                                *
+*Entries :    52283 : Total  Size=     210514 bytes  File Size  =     108218 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.94     *
+*............................................................................*
+*Br   98 :j1_betaStar : Float_t j1_betaStar/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =     111538 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.88     *
+*............................................................................*
+*Br   99 :j1_betaStarClassic : Float_t j1_betaStarClassic/Float_t            *
+*Entries :    52283 : Total  Size=     210668 bytes  File Size  =     111679 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.88     *
+*............................................................................*
+*Br  100 :j1_dR2Mean : Float_t j1_dR2Mean/Float_t                            *
+*Entries :    52283 : Total  Size=     210556 bytes  File Size  =     111887 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.88     *
+*............................................................................*
+*Br  101 :j1_csvBtag : Float_t j1_csvBtag/Float_t                            *
+*Entries :    52283 : Total  Size=     210556 bytes  File Size  =     101618 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   2.07     *
+*............................................................................*
+*Br  102 :j1_csvMvaBtag : Float_t j1_csvMvaBtag/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =     112143 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   1.87     *
+*............................................................................*
+*Br  103 :j1_jetProbBtag : Float_t j1_jetProbBtag/Float_t                    *
+*Entries :    52283 : Total  Size=     210612 bytes  File Size  =      95164 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   2.21     *
+*............................................................................*
+*Br  104 :j1_tcheBtag : Float_t j1_tcheBtag/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =     100084 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   2.10     *
+*............................................................................*
+*Br  105 :j1_radionMatched : Float_t j1_radionMatched/Float_t                *
+*Entries :    52283 : Total  Size=     210640 bytes  File Size  =      23676 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   8.87     *
+*............................................................................*
+*Br  106 :j2_e      : Float_t j2_e/Float_t                                   *
+*Entries :    52283 : Total  Size=     210472 bytes  File Size  =      47084 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.46     *
+*............................................................................*
+*Br  107 :j2_pt     : Float_t j2_pt/Float_t                                  *
+*Entries :    52283 : Total  Size=     210486 bytes  File Size  =      46953 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.47     *
+*............................................................................*
+*Br  108 :j2_phi    : Float_t j2_phi/Float_t                                 *
+*Entries :    52283 : Total  Size=     210500 bytes  File Size  =      48277 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.35     *
+*............................................................................*
+*Br  109 :j2_eta    : Float_t j2_eta/Float_t                                 *
+*Entries :    52283 : Total  Size=     210500 bytes  File Size  =      48249 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.35     *
+*............................................................................*
+*Br  110 :j2_beta   : Float_t j2_beta/Float_t                                *
+*Entries :    52283 : Total  Size=     210514 bytes  File Size  =      46175 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.55     *
+*............................................................................*
+*Br  111 :j2_betaStar : Float_t j2_betaStar/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =      47257 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.44     *
+*............................................................................*
+*Br  112 :j2_betaStarClassic : Float_t j2_betaStarClassic/Float_t            *
+*Entries :    52283 : Total  Size=     210668 bytes  File Size  =      47549 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.42     *
+*............................................................................*
+*Br  113 :j2_dR2Mean : Float_t j2_dR2Mean/Float_t                            *
+*Entries :    52283 : Total  Size=     210556 bytes  File Size  =      47331 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.44     *
+*............................................................................*
+*Br  114 :j2_csvBtag : Float_t j2_csvBtag/Float_t                            *
+*Entries :    52283 : Total  Size=     210556 bytes  File Size  =      42402 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.95     *
+*............................................................................*
+*Br  115 :j2_csvMvaBtag : Float_t j2_csvMvaBtag/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =      47645 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.41     *
+*............................................................................*
+*Br  116 :j2_jetProbBtag : Float_t j2_jetProbBtag/Float_t                    *
+*Entries :    52283 : Total  Size=     210612 bytes  File Size  =      39414 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   5.33     *
+*............................................................................*
+*Br  117 :j2_tcheBtag : Float_t j2_tcheBtag/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =      41798 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   5.02     *
+*............................................................................*
+*Br  118 :j2_radionMatched : Float_t j2_radionMatched/Float_t                *
+*Entries :    52283 : Total  Size=     210640 bytes  File Size  =      17640 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  11.91     *
+*............................................................................*
+*Br  119 :j3_e      : Float_t j3_e/Float_t                                   *
+*Entries :    52283 : Total  Size=     210472 bytes  File Size  =      16810 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  12.49     *
+*............................................................................*
+*Br  120 :j3_pt     : Float_t j3_pt/Float_t                                  *
+*Entries :    52283 : Total  Size=     210486 bytes  File Size  =      16617 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  12.63     *
+*............................................................................*
+*Br  121 :j3_phi    : Float_t j3_phi/Float_t                                 *
+*Entries :    52283 : Total  Size=     210500 bytes  File Size  =      17134 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  12.25     *
+*............................................................................*
+*Br  122 :j3_eta    : Float_t j3_eta/Float_t                                 *
+*Entries :    52283 : Total  Size=     210500 bytes  File Size  =      17133 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  12.25     *
+*............................................................................*
+*Br  123 :j3_beta   : Float_t j3_beta/Float_t                                *
+*Entries :    52283 : Total  Size=     210514 bytes  File Size  =      16316 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  12.87     *
+*............................................................................*
+*Br  124 :j3_betaStar : Float_t j3_betaStar/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =      16852 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  12.46     *
+*............................................................................*
+*Br  125 :j3_betaStarClassic : Float_t j3_betaStarClassic/Float_t            *
+*Entries :    52283 : Total  Size=     210668 bytes  File Size  =      16843 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  12.47     *
+*............................................................................*
+*Br  126 :j3_dR2Mean : Float_t j3_dR2Mean/Float_t                            *
+*Entries :    52283 : Total  Size=     210556 bytes  File Size  =      16835 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  12.47     *
+*............................................................................*
+*Br  127 :j3_csvBtag : Float_t j3_csvBtag/Float_t                            *
+*Entries :    52283 : Total  Size=     210556 bytes  File Size  =      14867 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  14.12     *
+*............................................................................*
+*Br  128 :j3_csvMvaBtag : Float_t j3_csvMvaBtag/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =      16983 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  12.37     *
+*............................................................................*
+*Br  129 :j3_jetProbBtag : Float_t j3_jetProbBtag/Float_t                    *
+*Entries :    52283 : Total  Size=     210612 bytes  File Size  =      13975 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  15.03     *
+*............................................................................*
+*Br  130 :j3_tcheBtag : Float_t j3_tcheBtag/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =      14592 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  14.39     *
+*............................................................................*
+*Br  131 :j3_radionMatched : Float_t j3_radionMatched/Float_t                *
+*Entries :    52283 : Total  Size=     210640 bytes  File Size  =       8496 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  24.72     *
+*............................................................................*
+*Br  132 :j4_e      : Float_t j4_e/Float_t                                   *
+*Entries :    52283 : Total  Size=     210472 bytes  File Size  =       6733 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  31.18     *
+*............................................................................*
+*Br  133 :j4_pt     : Float_t j4_pt/Float_t                                  *
+*Entries :    52283 : Total  Size=     210486 bytes  File Size  =       6727 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  31.21     *
+*............................................................................*
+*Br  134 :j4_phi    : Float_t j4_phi/Float_t                                 *
+*Entries :    52283 : Total  Size=     210500 bytes  File Size  =       6796 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  30.89     *
+*............................................................................*
+*Br  135 :j4_eta    : Float_t j4_eta/Float_t                                 *
+*Entries :    52283 : Total  Size=     210500 bytes  File Size  =       6808 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  30.84     *
+*............................................................................*
+*Br  136 :j4_beta   : Float_t j4_beta/Float_t                                *
+*Entries :    52283 : Total  Size=     210514 bytes  File Size  =       6671 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  31.47     *
+*............................................................................*
+*Br  137 :j4_betaStar : Float_t j4_betaStar/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =       6809 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  30.84     *
+*............................................................................*
+*Br  138 :j4_betaStarClassic : Float_t j4_betaStarClassic/Float_t            *
+*Entries :    52283 : Total  Size=     210668 bytes  File Size  =       6931 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  30.31     *
+*............................................................................*
+*Br  139 :j4_dR2Mean : Float_t j4_dR2Mean/Float_t                            *
+*Entries :    52283 : Total  Size=     210556 bytes  File Size  =       6791 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  30.92     *
+*............................................................................*
+*Br  140 :j4_csvBtag : Float_t j4_csvBtag/Float_t                            *
+*Entries :    52283 : Total  Size=     210556 bytes  File Size  =       6283 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  33.42     *
+*............................................................................*
+*Br  141 :j4_csvMvaBtag : Float_t j4_csvMvaBtag/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =       6862 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  30.61     *
+*............................................................................*
+*Br  142 :j4_jetProbBtag : Float_t j4_jetProbBtag/Float_t                    *
+*Entries :    52283 : Total  Size=     210612 bytes  File Size  =       6057 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  34.68     *
+*............................................................................*
+*Br  143 :j4_tcheBtag : Float_t j4_tcheBtag/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =       6202 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  33.86     *
+*............................................................................*
+*Br  144 :j4_radionMatched : Float_t j4_radionMatched/Float_t                *
+*Entries :    52283 : Total  Size=     210640 bytes  File Size  =       4341 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  48.39     *
+*............................................................................*
+*Br  145 :JetsMass  : Float_t JetsMass/Float_t                               *
+*Entries :    52283 : Total  Size=     210528 bytes  File Size  =      47096 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.46     *
+*............................................................................*
+*Br  146 :dijet_E   : Float_t dijet_E/Float_t                                *
+*Entries :    52283 : Total  Size=     210514 bytes  File Size  =      47091 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.46     *
+*............................................................................*
+*Br  147 :dijet_Pt  : Float_t dijet_Pt/Float_t                               *
+*Entries :    52283 : Total  Size=     210528 bytes  File Size  =      47512 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.42     *
+*............................................................................*
+*Br  148 :dijet_Eta : Float_t dijet_Eta/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =      48264 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.35     *
+*............................................................................*
+*Br  149 :dijet_Phi : Float_t dijet_Phi/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =      48343 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.34     *
+*............................................................................*
+*Br  150 :RadMass   : Float_t RadMass/Float_t                                *
+*Entries :    52283 : Total  Size=     210514 bytes  File Size  =      46620 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.50     *
+*............................................................................*
+*Br  151 :radion_E  : Float_t radion_E/Float_t                               *
+*Entries :    52283 : Total  Size=     210528 bytes  File Size  =      47083 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.46     *
+*............................................................................*
+*Br  152 :radion_Pt : Float_t radion_Pt/Float_t                              *
+*Entries :    52283 : Total  Size=     210542 bytes  File Size  =      47379 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.43     *
+*............................................................................*
+*Br  153 :radion_Eta : Float_t radion_Eta/Float_t                            *
+*Entries :    52283 : Total  Size=     210556 bytes  File Size  =      47984 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.38     *
+*............................................................................*
+*Br  154 :radion_Phi : Float_t radion_Phi/Float_t                            *
+*Entries :    52283 : Total  Size=     210556 bytes  File Size  =      48434 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=   4.34     *
+*............................................................................*
+*Br  155 :gr_radion_p4_pt : Float_t gr_radion_p4_pt/Float_t                  *
+*Entries :    52283 : Total  Size=     210626 bytes  File Size  =       2320 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  90.54     *
+*............................................................................*
+*Br  156 :gr_radion_p4_eta : Float_t gr_radion_p4_eta/Float_t                *
+*Entries :    52283 : Total  Size=     210640 bytes  File Size  =       2330 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  90.15     *
+*............................................................................*
+*Br  157 :gr_radion_p4_phi : Float_t gr_radion_p4_phi/Float_t                *
+*Entries :    52283 : Total  Size=     210640 bytes  File Size  =       2330 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  90.15     *
+*............................................................................*
+*Br  158 :gr_radion_p4_mass : Float_t gr_radion_p4_mass/Float_t              *
+*Entries :    52283 : Total  Size=     210654 bytes  File Size  =       2340 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  89.77     *
+*............................................................................*
+*Br  159 :gr_hgg_p4_pt : Float_t gr_hgg_p4_pt/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =       2290 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.71     *
+*............................................................................*
+*Br  160 :gr_hgg_p4_eta : Float_t gr_hgg_p4_eta/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =       2300 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.31     *
+*............................................................................*
+*Br  161 :gr_hgg_p4_phi : Float_t gr_hgg_p4_phi/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =       2300 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.31     *
+*............................................................................*
+*Br  162 :gr_hgg_p4_mass : Float_t gr_hgg_p4_mass/Float_t                    *
+*Entries :    52283 : Total  Size=     210612 bytes  File Size  =       2310 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  90.92     *
+*............................................................................*
+*Br  163 :gr_hbb_p4_pt : Float_t gr_hbb_p4_pt/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =       2290 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.71     *
+*............................................................................*
+*Br  164 :gr_hbb_p4_eta : Float_t gr_hbb_p4_eta/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =       2300 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.31     *
+*............................................................................*
+*Br  165 :gr_hbb_p4_phi : Float_t gr_hbb_p4_phi/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =       2300 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.31     *
+*............................................................................*
+*Br  166 :gr_hbb_p4_mass : Float_t gr_hbb_p4_mass/Float_t                    *
+*Entries :    52283 : Total  Size=     210612 bytes  File Size  =       2310 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  90.92     *
+*............................................................................*
+*Br  167 :gr_g1_p4_pt : Float_t gr_g1_p4_pt/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =       2280 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  92.11     *
+*............................................................................*
+*Br  168 :gr_g1_p4_eta : Float_t gr_g1_p4_eta/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =       2290 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.71     *
+*............................................................................*
+*Br  169 :gr_g1_p4_phi : Float_t gr_g1_p4_phi/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =       2290 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.71     *
+*............................................................................*
+*Br  170 :gr_g1_p4_mass : Float_t gr_g1_p4_mass/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =       2300 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.31     *
+*............................................................................*
+*Br  171 :gr_g2_p4_pt : Float_t gr_g2_p4_pt/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =       2280 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  92.11     *
+*............................................................................*
+*Br  172 :gr_g2_p4_eta : Float_t gr_g2_p4_eta/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =       2290 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.71     *
+*............................................................................*
+*Br  173 :gr_g2_p4_phi : Float_t gr_g2_p4_phi/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =       2290 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.71     *
+*............................................................................*
+*Br  174 :gr_g2_p4_mass : Float_t gr_g2_p4_mass/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =       2300 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.31     *
+*............................................................................*
+*Br  175 :gr_b1_p4_pt : Float_t gr_b1_p4_pt/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =       2280 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  92.11     *
+*............................................................................*
+*Br  176 :gr_b1_p4_eta : Float_t gr_b1_p4_eta/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =       2290 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.71     *
+*............................................................................*
+*Br  177 :gr_b1_p4_phi : Float_t gr_b1_p4_phi/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =       2290 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.71     *
+*............................................................................*
+*Br  178 :gr_b1_p4_mass : Float_t gr_b1_p4_mass/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =       2300 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.31     *
+*............................................................................*
+*Br  179 :gr_b2_p4_pt : Float_t gr_b2_p4_pt/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =       2280 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  92.11     *
+*............................................................................*
+*Br  180 :gr_b2_p4_eta : Float_t gr_b2_p4_eta/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =       2290 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.71     *
+*............................................................................*
+*Br  181 :gr_b2_p4_phi : Float_t gr_b2_p4_phi/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =       2290 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.71     *
+*............................................................................*
+*Br  182 :gr_b2_p4_mass : Float_t gr_b2_p4_mass/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =       2300 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.31     *
+*............................................................................*
+*Br  183 :gr_j1_p4_pt : Float_t gr_j1_p4_pt/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =       2280 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  92.11     *
+*............................................................................*
+*Br  184 :gr_j1_p4_eta : Float_t gr_j1_p4_eta/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =       2290 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.71     *
+*............................................................................*
+*Br  185 :gr_j1_p4_phi : Float_t gr_j1_p4_phi/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =       2290 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.71     *
+*............................................................................*
+*Br  186 :gr_j1_p4_mass : Float_t gr_j1_p4_mass/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =       2300 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.31     *
+*............................................................................*
+*Br  187 :gr_j2_p4_pt : Float_t gr_j2_p4_pt/Float_t                          *
+*Entries :    52283 : Total  Size=     210570 bytes  File Size  =       2280 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  92.11     *
+*............................................................................*
+*Br  188 :gr_j2_p4_eta : Float_t gr_j2_p4_eta/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =       2290 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.71     *
+*............................................................................*
+*Br  189 :gr_j2_p4_phi : Float_t gr_j2_p4_phi/Float_t                        *
+*Entries :    52283 : Total  Size=     210584 bytes  File Size  =       2290 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.71     *
+*............................................................................*
+*Br  190 :gr_j2_p4_mass : Float_t gr_j2_p4_mass/Float_t                      *
+*Entries :    52283 : Total  Size=     210598 bytes  File Size  =       2300 *
+*Baskets :       10 : Basket Size=      32000 bytes  Compression=  91.31     *
+*............................................................................*

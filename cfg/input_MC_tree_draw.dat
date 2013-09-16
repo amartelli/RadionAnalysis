@@ -1,0 +1,25 @@
+./output/Plots_tree_Radion_m300_8TeV_nm.root 1. H->ggbb 2 0
+./output/Plots_tree_MCBackgrounds_DiPhotonJets-madgraph_diphojet_8TeV.root 1. diphojet 8 1
+./output/Plots_tree_MCBackground_gjets_40_8TeV_pf.root 1. gjets_40-inf_pf 30 3
+./output/Plots_tree_MCBackground_gjets_20_8TeV_pf.root 1. gjets_20-40_pf 49 3
+./output/Plots_tree_MCBackground_dipho_Box_25_8TeV.root 1. dipho_box25 9 2
+./output/Plots_tree_MCBackgrounds_DY_WG_DYJetsToLL.root 1. DY 7 5
+./output/Plots_tree_MCBackgrounds_DY_WG_WGToLNuG.root 1. DY 7 5
+./output/Plots_tree_MCBackground_ZZJetsTo2L2Q.root 1. DY 7 5
+./output/Plots_tree_MCBackground_TTJets.root 1. DY 7 5
+./output/Plots_tree_MCBackground_TTGJets.root 1. DY 7 5
+./output/Plots_tree_MCBackgrounds_ttgg_Zgg_Zgg_dR02.root 1. DY 7 5
+./output/Plots_tree_MCBackgrounds_ttgg_Zgg_ttgg_dR02.root 1. DY 7 5
+./output/Plots_tree_MCBackground_qcd_30_8TeV_ff.root 1. QCD_30ff 41 4
+./output/Plots_tree_MCBackground_qcd_40_8TeV_ff.root 1. QCD_40ff 42 4
+./output/Plots_tree_MCBackground_qcd_30_8TeV_pf.root 1. QCD_30pf 45 4
+./output/Plots_tree_MCBackground_qcd_40_8TeV_pf.root 1. QCD_40pf 46 4
+./output/Plots_tree_MCBackground_dipho_Box_250_8TeV.root 1. dipho_box250 29 2
+./output/Plots_tree_MCBackground_ggh_m125_8TeV.root 1. SM 3 6
+./output/Plots_tree_MCBackground_tth_m125_8TeV.root 1. SM 3 6
+./output/Plots_tree_MCBackground_vbf_m125_8TeV.root 1. SM 3 6
+./output/Plots_tree_MCBackground_wzh_m125_8TeV.root 1. SM 3 6
+
+
+
+
